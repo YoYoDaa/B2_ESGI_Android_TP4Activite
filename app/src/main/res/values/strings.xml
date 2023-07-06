@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP4Activité</string>
+    <string name="button_main">Expédier !</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="text_header">Bien reçu chef !</string>
+    <string name="editText_main">Ecrit la gros tinquète</string>
+    <string name="button_second">Réponse</string>
+    <string name="editText_second">Tu peu lui repondre là gros</string>
+    <string name="text_header_reply">Jai reçu !</string>
+</resources>
