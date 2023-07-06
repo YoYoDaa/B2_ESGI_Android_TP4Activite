@@ -15,7 +15,7 @@ public class SecondActivity extends AppCompatActivity {
             "com.example.android.twoactivities.extra.REPLY";
     private EditText mReply;
 
-
+/*New comment*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
